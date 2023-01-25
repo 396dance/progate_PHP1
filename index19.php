@@ -7,7 +7,18 @@
 </head>
 <body>
 
+  <?php
 
+    // 関数getCircleAreaを定義してください
+
+
+    // 関数getCircleAreaを呼び出して、戻り値を変数$circleAreaに代入してください
+
+
+    // $circleAreaをechoしてください
+
+
+  ?>
 
 
 
