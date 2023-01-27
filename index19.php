@@ -15,7 +15,7 @@
     }
 
     // 関数getCircleAreaを呼び出して、戻り値を変数$circleAreaに代入してください
-
+    $circleArea = getCircleArea(5);
 
     // $circleAreaをechoしてください
 
