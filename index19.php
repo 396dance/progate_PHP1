@@ -18,7 +18,7 @@
     $circleArea = getCircleArea(5);
 
     // $circleAreaをechoしてください
-
+    echo $circleArea;
 
   ?>
 
